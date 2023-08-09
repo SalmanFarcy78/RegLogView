@@ -1,6 +1,6 @@
-# loginregistration
+# Ostad-Vue Assignment-6: Link
 
-This template should help get you started developing with Vue 3 in Vite.
+Netlify Link: https://salman-reglogin.netlify.app
 
 ## Recommended IDE Setup
 
